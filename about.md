@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Some information about you!
+JV88 / NGM91 / MKU93 / SAP...
 
 ### More Information
 
