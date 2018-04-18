@@ -6,7 +6,7 @@
 name: Kishore Balakrishnan
 
 # Short bio or description (displayed in the header)
-description: what...so what
+description: what ... so what ... what next
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://bekishore.files.wordpress.com/2014/08/kishore-balakrishnan-2014-08-01.jpg
@@ -21,12 +21,12 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: barryclark/jekyll-now
+  github: bekishore
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: bekishore
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
@@ -49,7 +49,7 @@ baseurl: ""
 #
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge # 2018 04 18 wed - changed from pygments to rouge
 permalink: /:title
 
 # The release of Jekyll Now that you're using
